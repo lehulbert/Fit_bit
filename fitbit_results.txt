@@ -1,0 +1,52 @@
+My total steps over the past 722 days is: 8507928 
+Which means overall I walk an average of 11783 steps per day. 
+ 
+My average # of steps broken down by day of the week:
+  days_of_the_week  avgs
+7              Sun 10784
+4              Thu 11407
+2             Tues 11534
+3              Wed 12071
+5              Fri 12138
+6              Sat 12762
+1              Mon 12806
+
+days with the fewest steps...
+    day_number day_of_the_week       time steps
+48          48             Sat 2014-10-04  1011
+468        468             Sat 2015-11-28  1588
+21          21             Sun 2014-09-07  2506
+511        511             Sun 2016-01-10  2680
+182        182             Sun 2015-02-15  2950
+99          99             Mon 2014-11-24  3240
+
+days with the most steps...
+    day_number day_of_the_week       time steps
+28          28             Sun 2014-09-14 24654
+652        652             Mon 2016-05-30 25070
+310        310            Tues 2015-06-23 25562
+41          41             Sat 2014-09-27 26749
+559        559             Sat 2016-02-27 30055
+273        273             Sun 2015-05-17 30128
+
+number of times I've walked more than 10,000 steps= 503 
+I walk 10,000 steps 70.5 % of the time 
+
+number of times I've walked more than 15,000 steps= 123 
+I walk 15,000 steps 17.3 % of the time 
+
+number of times I've walked more than 20,000 steps= 27 
+
+number of times I've walked more than 30,000 steps= 2 
+
+ 
+T-TESTS... 
+Significant difference between average Mondays and Sundays steps?
+   t-test shows that yes, there's a statistically significant difference.
+ 
+Significant difference between average Mondays and Saturdays steps?
+   no, there's isn't a statistically significant difference.
+ 
+Significant difference between average year 2 and year 1 steps?
+   t-test shows that yes, there's a statistically significant difference.
+   On average I walk 984 more steps per day in year 2 than year 1.
